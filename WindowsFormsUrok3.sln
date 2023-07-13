@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsUrok3", "WindowsFormsUrok3\WindowsFormsUrok3.csproj", "{896DEE5B-5F0E-462B-AD19-D6DEC4D482C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urok3NotePad", "Urok3NotePad\Urok3NotePad.csproj", "{8BCC122F-6AFD-4CB3-AA20-F6279763E494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896DEE5B-5F0E-462B-AD19-D6DEC4D482C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896DEE5B-5F0E-462B-AD19-D6DEC4D482C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896DEE5B-5F0E-462B-AD19-D6DEC4D482C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896DEE5B-5F0E-462B-AD19-D6DEC4D482C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCC122F-6AFD-4CB3-AA20-F6279763E494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCC122F-6AFD-4CB3-AA20-F6279763E494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCC122F-6AFD-4CB3-AA20-F6279763E494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCC122F-6AFD-4CB3-AA20-F6279763E494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60EA3ACA-C3E3-4659-8029-F318F84F8E32}
+	EndGlobalSection
+EndGlobal
